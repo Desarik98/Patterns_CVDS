@@ -6,8 +6,12 @@ package edu.eci.cvds.patterns;
  */
 public class App 
 {
+    /**
+     * @parameter args[] = ["Daniel", "Mejia"]
+     */
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+        System.out.println("Hola " + args[0] + " " + args[1] + "!");
     }
+
 }
