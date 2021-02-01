@@ -1,5 +1,4 @@
-/.idea
-/target
-/target/generated-sources
+.idea
+target
 Patterns.iml
 pom.xml
